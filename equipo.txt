@@ -1,0 +1,3 @@
+Nombre: Mateo Johnston
+Mensaje: Este es mi mensaje de prueba en equipo.txt
+
